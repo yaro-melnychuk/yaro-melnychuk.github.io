@@ -1,6 +1,6 @@
 {
-    "name": "dari_alarm",
-    "short_name": "dari_alarm",
+    "name": "widgetbook_workspace",
+    "short_name": "widgetbook_workspace",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
